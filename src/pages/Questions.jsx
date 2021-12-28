@@ -50,6 +50,7 @@ import { Answer } from "../components/Answer";
 import { CompletedCard } from "../components/CompletedCard";
 import { QuizStats } from "../components/QuizStats";
 import { myQuestions } from "../store/myQuestions";
+import { myQuestionsC } from "../store/myQuestionsC";
 
 const Questions = () => {
   const mainContainerRef = useRef();
@@ -76,6 +77,32 @@ const Questions = () => {
     const fetchedQuestions = myQuestions.filter(
       (x) => x.category === chosenCategory && x.difficulty === chosenDifficulty
     );
+    // const fetchedQuestions = Object.assign(
+    //   myQuestionsC.map((quest) => ({
+    //     id: quest.id,
+    //     question: quest.question,
+    //     category: "2",
+    //     answers: {
+    //       answer_a: quest.answerA,
+    //       answer_b: quest.answerB,
+    //       answer_c: quest.answerC,
+    //       answer_d: quest.answerD,
+    //     },
+    //     multiple_correct_answers: "false",
+    //     tags: [{ name: "Η μπάλα" }],
+    //     description: null,
+    //     tip: null,
+    //     difficulty: "easy",
+    //     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
+    //     correct_answer: null,
+    //     correct_answers: {
+    //       answer_a_correct: quest.correctAnswer === "a" ? "true" : "false",
+    //       answer_b_correct: quest.correctAnswer === "b" ? "true" : "false",
+    //       answer_c_correct: quest.correctAnswer === "c" ? "true" : "false",
+    //       answer_d_correct: quest.correctAnswer === "d" ? "true" : "false",
+    //     },
+    //   }))
+    // );
     console.log(fetchedQuestions);
     setQuestions(fetchedQuestions);
 
