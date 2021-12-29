@@ -20,7 +20,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -48,7 +48,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -74,9 +74,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -105,7 +105,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -132,9 +132,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -163,9 +163,8 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -176,7 +175,7 @@ export const myQuestions = [
   {
     id: 7,
     question:
-      "Η ακτίνα του γωνιαίου τόξου, που χαράσσεται στο εσωτερικό τμήμα του αγωνιστικού χώρου είναι...",
+      "Αμυντικός κλωτσά τη μπάλα. Αυτή κτυπά στο μη ευλύγιστο κοντάρι του κόρνερ και επιστρέφει στον       αγωνιστικό χώρο. Ποια πρέπει να είναι η απόφαση του διαιτητή;",
     category: "1",
     answers: {
       answer_a: "Χορηγεί κόρνερ.",
@@ -192,9 +191,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -222,7 +221,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -249,9 +248,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -277,9 +276,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -308,7 +307,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -337,7 +336,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -365,9 +364,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -395,9 +394,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -426,9 +425,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -455,9 +454,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -483,9 +482,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -514,7 +513,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -544,7 +543,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -574,7 +573,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -602,9 +601,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -633,7 +632,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -662,7 +661,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -689,9 +688,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -721,9 +720,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -750,9 +749,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -781,7 +780,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -810,7 +809,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -837,9 +836,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -867,7 +866,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -900,7 +899,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -929,9 +928,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -958,9 +957,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -990,9 +989,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -1020,9 +1019,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -1048,9 +1047,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -1077,9 +1076,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1109,9 +1108,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1140,7 +1139,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1169,9 +1168,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -1198,9 +1197,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -1227,9 +1226,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1260,9 +1259,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -1291,9 +1290,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -1323,9 +1322,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1352,9 +1351,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -1384,7 +1383,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -1414,9 +1413,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -1447,9 +1446,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -1476,9 +1475,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1507,7 +1506,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -1536,7 +1535,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -1563,9 +1562,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1594,9 +1593,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1622,9 +1621,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1650,9 +1649,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -1679,9 +1678,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1709,7 +1708,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1736,9 +1735,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1768,9 +1767,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -1803,7 +1802,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1835,7 +1834,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -1867,7 +1866,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -1894,9 +1893,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -1925,9 +1924,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -1953,9 +1952,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "true",
       answer_b_correct: "false",
@@ -1988,7 +1987,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -2015,9 +2014,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "hard",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -2049,7 +2048,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "false",
@@ -2078,7 +2077,7 @@ export const myQuestions = [
     tip: null,
     difficulty: "easy",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
@@ -2106,9 +2105,9 @@ export const myQuestions = [
     ],
     description: null,
     tip: null,
-    difficulty: "easy",
+    difficulty: "medium",
     explanation: "Σύμφωνα με τον αντίστοιχο κανόνα",
-    correct_answer: null,
+
     correct_answers: {
       answer_a_correct: "false",
       answer_b_correct: "true",
